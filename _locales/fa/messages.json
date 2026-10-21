@@ -1,0 +1,611 @@
+{
+  "android_smartphone": {
+    "message": "<i class='mdi'>&#xe922;</i> تلفن‌های اندروید"
+  },
+  "apple_smartphone": {
+    "message": "<i class='mdi'>&#xeabe;</i> تلفن‌های اپل"
+  },
+  "button_feedback": {
+    "message": "نظر اضافه کنید"
+  },
+  "button_message": {
+    "message": "پیامی برای ما ارسال کنید"
+  },
+  "close": {
+    "message": "بستن"
+  },
+  "context_menu_activate": {
+    "message": "باز کردن مبات"
+  },
+  "copied": {
+    "message": "کپی شد"
+  },
+  "custom_device_add": {
+    "message": "افزودن دستگاه سفارشی"
+  },
+  "custom_device_dpr": {
+    "message": "نسبت پیکسل دستگاه"
+  },
+  "custom_device_error_name": {
+    "message": "نام دستگاه الزامی است."
+  },
+  "custom_device_error_os": {
+    "message": "سیستم‌عامل الزامی است."
+  },
+  "custom_device_error_ua": {
+    "message": "عامل کاربر الزامی است."
+  },
+  "custom_device_error_viewport": {
+    "message": "عرض و ارتفاع ویوپورت باید بین 10 و 4096 باشد."
+  },
+  "custom_device_height": {
+    "message": "ارتفاع ویوپورت (px)"
+  },
+  "custom_device_less": {
+    "message": "تنظیمات کمتر"
+  },
+  "custom_device_more": {
+    "message": "تنظیمات بیشتر"
+  },
+  "custom_device_name": {
+    "message": "نام دستگاه"
+  },
+  "custom_device_network": {
+    "message": "شبکه"
+  },
+  "custom_device_os_name": {
+    "message": "سیستم‌عامل"
+  },
+  "custom_device_os_version": {
+    "message": "نسخه سیستم‌عامل"
+  },
+  "custom_device_submit": {
+    "message": "افزودن"
+  },
+  "custom_device_title": {
+    "message": "افزودن دستگاه سفارشی"
+  },
+  "custom_device_ua": {
+    "message": "رشته عامل کاربر"
+  },
+  "custom_device_ua_custom": {
+    "message": "عامل کاربر سفارشی"
+  },
+  "custom_device_ua_preset": {
+    "message": "عامل کاربر"
+  },
+  "custom_device_width": {
+    "message": "عرض ویوپورت (px)"
+  },
+  "device_mockup_blocked": {
+    "message": "نمای دستگاه بارگیری نشد. این ممکن است به دلیل یک مسدودکننده تبلیغات یا سیاست امنیتی شرکت شما باشد. شبیه‌ساز به طور کامل قابل استفاده است، فقط ماکت نمایش داده نمی‌شود."
+  },
+  "device_mockup_blocked_title": {
+    "message": "ماکت دستگاه در دسترس نیست"
+  },
+  "device_variant_folded": {
+    "message": "تا شده"
+  },
+  "device_variant_unfolded": {
+    "message": "باز شده"
+  },
+  "dimensions": {
+    "message": "ابعاد"
+  },
+  "error": {
+    "message": "خطا"
+  },
+  "error_contact": {
+    "message": "{در گیت‌هاب issue ثبت کنید} اگر مشکل ادامه داشت."
+  },
+  "extDescription": {
+    "message": "مبات — افزونهٔ متن‌باز کروم برای پیش‌نمایش و آزمایش سایت‌ها روی موبایل، تبلت و دسکتاپ."
+  },
+  "extName": {
+    "message": "مبات"
+  },
+  "latest_updates": {
+    "message": "آخرین به‌روزرسانی‌ها"
+  },
+  "link": {
+    "message": "لینک"
+  },
+  "menu_active_devices": {
+    "message": "دستگاه‌های قابل مشاهده در زبانه"
+  },
+  "menu_add_window": {
+    "message": "افزودن پنجره"
+  },
+  "menu_change_device": {
+    "message": "تغییر دستگاه یا مقایسه"
+  },
+  "menu_close_alone": {
+    "message": "شبیه‌ساز را غیرفعال کنید"
+  },
+  "menu_close_window": {
+    "message": "بستن این پنجره"
+  },
+  "menu_contact_devices": {
+    "message": "دستگاه شما در فهرست نیست؟ در گیت‌هاب issue ثبت کنید."
+  },
+  "menu_custom_devices": {
+    "message": "<i class='mdi'>&#xe917;</i>&nbsp;&nbsp;دستگاه‌های سفارشی من"
+  },
+  "menu_custom_devices_banner": {
+    "message": "دستگاه‌های سفارشی خود را اضافه کنید!"
+  },
+  "menu_disable_comparison_mode": {
+    "message": "غیرفعال‌سازی حالت مقایسه"
+  },
+  "menu_enable_comparison_mode": {
+    "message": "فعال‌سازی حالت مقایسه"
+  },
+  "menu_faq_all": {
+    "message": "مشاهده تمام سوالات متداول"
+  },
+  "menu_faq_ignonito_mode": {
+    "message": "چگونه شبیه‌ساز را در حالت ناشناس فعال کنم؟"
+  },
+  "menu_faq_media_queries": {
+    "message": "مدیا کوئری‌های من در نظر گرفته نمی‌شوند"
+  },
+  "menu_faq_scroll": {
+    "message": "امکان اسکرول در شبیه‌ساز وجود ندارد"
+  },
+  "menu_faq_shortcut": {
+    "message": "چگونه میانبرهای صفحه‌کلید را تنظیم کنم؟"
+  },
+  "menu_faq_title": {
+    "message": "سوالات متداول"
+  },
+  "menu_favorites": {
+    "message": "<i class='mdi mdi-star favorites-icon is-size-6'></i> علاقه‌مندی‌ها"
+  },
+  "menu_github": {
+    "message": "گیت‌هاب"
+  },
+  "menu_info_device": {
+    "message": "ویژگی‌ها و مدل این دستگاه"
+  },
+  "menu_info_device_features": {
+    "message": "ویژگی‌ها (وضوح viewport و غیره)"
+  },
+  "menu_info_device_mockup": {
+    "message": "اطلاعات دستگاه"
+  },
+  "menu_report": {
+    "message": "گزارش باگ در گیت‌هاب"
+  },
+  "menu_rotate": {
+    "message": "جهت را تغییر دهید"
+  },
+  "menu_screencast": {
+    "message": "📹 ضبط ویدئو از صفحه"
+  },
+  "menu_screenshot": {
+    "message": "📷 گرفتن اسکرین‌شات"
+  },
+  "menu_send_improvement": {
+    "message": "پیشنهاد بهبود را در گیت‌هاب ثبت کنید."
+  },
+  "menu_send_message": {
+    "message": "مرکز کمک"
+  },
+  "menu_settings": {
+    "message": "تنظیمات"
+  },
+  "menu_vote_feature": {
+    "message": "برای ویژگی‌هایی که می‌خواهید رأی دهید"
+  },
+  "menu_zoom": {
+    "message": "در دستگاه زوم کنید"
+  },
+  "more_settings": {
+    "message": "تنظیمات بیشتر"
+  },
+  "new_comparison_feature_h1": {
+    "message": "همین حالا ویژگی جدید مقایسه چند دستگاه را کشف کنید!"
+  },
+  "new_comparison_feature_h2": {
+    "message": "نمایش همزمان چند دستگاه را در یک پنجره مقایسه کنید. اسکرول، کلیک‌ها، صفحه‌کلید همگام‌سازی شده."
+  },
+  "new_video_feature_h1": {
+    "message": "اکنون ویژگی جدید ضبط ویدئو را کشف کنید!"
+  },
+  "new_video_feature_h2": {
+    "message": "با کیفیت بهتر، گزینه‌های جدید و با پس‌زمینه شفاف ضبط کنید"
+  },
+  "notification_update_title_v4_14_5": {
+    "message": "<strong class='mb-2 is-block'>به‌روزرسانی v4.14.5</strong>افزایش قابل توجه <strong>وضوح و کیفیت</strong> اسکرین‌شات‌ها <i class='mdi'>&#xe903;</i>"
+  },
+  "notification_update_title_v4_15_0": {
+    "message": "<strong class='mb-2 is-block'>به‌روزرسانی v4.15.0</strong>فعال‌سازی <strong>پیمایش لمسی</strong> برای گوشی‌های هوشمند و تبلت‌ها <i class='mdi'>&#xe905;</i>"
+  },
+  "notification_update_title_v4_15_2": {
+    "message": "<strong class='mb-2 is-block'>به‌روزرسانی v4.15.0</strong>فعال‌سازی <strong>اسکرول لمسی</strong> برای گوشی‌های هوشمند و تبلت‌ها."
+  },
+  "notification_update_title_v4_15_5": {
+    "message": "<strong class='mb-2 is-block'>به‌روزرسانی v4.15.5</strong><ul><li>اصلاح مشکل مربوط به عکس‌برداری از صفحه کامل در <strong>فایل‌های محلی</strong>.</li><li>اصلاح مشکل مربوط به واحدهای vh، dhv، lvh، svh در <strong>iOS&nbsp;26</strong>.</li></ul>"
+  },
+  "notification_update_title_v4_16_0": {
+    "message": "<strong class='mb-2 is-block'>Update v4.16.0</strong>افزودن امکان ایجاد دستگاه‌های سفارشی <i class='mdi'>&#xe917;</i>"
+  },
+  "notification_update_title_v4_17_0": {
+    "message": "<strong class='mb-2 is-block'>به‌روزرسانی v4.17.0</strong>افزودن قابلیت مقایسه چندین دستگاه به‌صورت همزمان! <i class='mdi'>&#xe917;</i>"
+  },
+  "notification_update_title_vwelcome": {
+    "message": "به مبات خوش آمدید 👋 برای شروع منو را باز کنید."
+  },
+  "optional": {
+    "message": "اختیاری"
+  },
+  "others": {
+    "message": "<i class='mdi'>&#xe921;</i> ویژه‌ها"
+  },
+  "popup_activate_local_files_button": {
+    "message": "گزینه را فعال کنید"
+  },
+  "popup_activate_local_files_info": {
+    "message": "این شبیه‌ساز به‌طور پیش‌فرض روی فایل‌های محلی (file:///) فعال نمی‌شود اما می‌توانید این گزینه را به‌صورت دستی در تنظیمات Chrome فعال کنید."
+  },
+  "popup_site_incompatible": {
+    "message": "شبیه‌ساز در این صفحه بومی مرورگر شما فعال نمی‌شود. روی تب دیگری امتحان کنید یا به سایتی بروید و دوباره اجرا کنید."
+  },
+  "screencast_camera_permission_denied": {
+    "message": "دسترسی به دوربین رد شد."
+  },
+  "screencast_error": {
+    "message": "هنگام ضبط خطایی رخ داد. {برای راه‌حل جایگزین اینجا کلیک کنید}."
+  },
+  "screencast_error_media_stream_track_processor_or_generator": {
+    "message": "نسخه Chrome شما برای این ویژگی خیلی قدیمی است. لطفاً Chrome را به نسخه بالاتر از 94.0 به‌روزرسانی کنید."
+  },
+  "screencast_firefox_select_tab": {
+    "message": "لطفاً پنجره فعلی (و نه کل صفحه) را به اشتراک بگذارید تا ضبط به درستی قاب شود."
+  },
+  "screencast_microphone_permission_denied": {
+    "message": "دسترسی به میکروفون رد شد."
+  },
+  "screencast_modale_auto_stop_limit_reached": {
+    "message": "ضبط ویدیو به ۵ دقیقه محدود شده است."
+  },
+  "screencast_modale_contact": {
+    "message": "ثبت issue در گیت‌هاب"
+  },
+  "screencast_modale_copy": {
+    "message": "کپی لینک"
+  },
+  "screencast_modale_download_gif": {
+    "message": "سازگار با همه جا، اما کیفیت پایین‌تر (با شفافیت در صورت فعال بودن گزینه)"
+  },
+  "screencast_modale_download_mp4": {
+    "message": "سازگاری بهتر با PowerPoint، اما بدون شفافیت"
+  },
+  "screencast_modale_download_webm": {
+    "message": "دانلود به فرمت پیش‌فرض WEBM (با شفافیت در صورت فعال بودن گزینه)"
+  },
+  "screencast_modale_gif_duration_limit_info": {
+    "message": "حداکثر مدت زمان یک GIF 60 ثانیه است. بیشتر از آن فایل بسیار حجیم خواهد بود."
+  },
+  "screencast_modale_texte": {
+    "message": "می‌توانید این ویدئو را در فرمت‌های مختلف دانلود کنید یا لینک اشتراک دریافت کنید."
+  },
+  "screencast_modale_title": {
+    "message": "ضبط ویدئو"
+  },
+  "screencast_modale_upload": {
+    "message": "بارگذاری (غیرفعال)"
+  },
+  "screencast_quality_info_tooltip": {
+    "message": "کیفیت ویدئو بر بیت‌ریت، fps و وضوح ضبط تأثیر می‌گذارد. هرچه کیفیت بالاتر باشد، فایل حجیم‌تر خواهد بود."
+  },
+  "screencast_start_recording": {
+    "message": "شروع ضبط"
+  },
+  "screencast_tooltip_device": {
+    "message": "فقط ضبط ویدئو از دستگاه"
+  },
+  "screencast_tooltip_tab": {
+    "message": "ضبط ویدئو از زبانه با دستگاه"
+  },
+  "screenshot_button": {
+    "message": "تولید اسکرین‌شات"
+  },
+  "screenshot_editor_arrow": {
+    "message": "رسم فلش"
+  },
+  "screenshot_editor_close": {
+    "message": "بستن ویرایشگر"
+  },
+  "screenshot_editor_color": {
+    "message": "رنگ خط"
+  },
+  "screenshot_editor_ellipse": {
+    "message": "رسم دایره"
+  },
+  "screenshot_editor_line": {
+    "message": "رسم خط"
+  },
+  "screenshot_editor_pen": {
+    "message": "طراحی آزاد"
+  },
+  "screenshot_editor_rect": {
+    "message": "رسم مستطیل"
+  },
+  "screenshot_editor_stroke_width": {
+    "message": "ضخامت خط"
+  },
+  "screenshot_editor_undo": {
+    "message": "لغو آخرین عمل"
+  },
+  "screenshot_menu_1": {
+    "message": "گرفتن عکس با دستگاه"
+  },
+  "screenshot_menu_2": {
+    "message": "گرفتن فقط از سایت"
+  },
+  "screenshot_menu_3": {
+    "message": "گرفتن از کل صفحه"
+  },
+  "screenshot_menu_4": {
+    "message": "گرفتن از کل تب"
+  },
+  "screenshot_menu_stop_fullpage": {
+    "message": "قبل از پایان صفحه متوقف کنید"
+  },
+  "screenshot_modale_copy": {
+    "message": "کپی تصویر در کلیپ‌بورد"
+  },
+  "screenshot_modale_download_png": {
+    "message": "دانلود به فرمت PNG (بدون فشرده‌سازی)"
+  },
+  "screenshot_modale_download_webp": {
+    "message": "دانلود به فرمت WEBP، تقریباً همه جا سازگار و فشرده‌سازی بهینه (توصیه‌شده)"
+  },
+  "screenshot_modale_edit": {
+    "message": "ویرایش اسکرین‌شات"
+  },
+  "screenshot_modale_help": {
+    "message": "برای ذخیره تصویر در فرمت بزرگ، کافی است روی آن راست‌کلیک کنید و \"کپی تصویر\" یا \"ذخیره\" را انتخاب کنید."
+  },
+  "screenshot_modale_title": {
+    "message": "عکس صفحه"
+  },
+  "screenshot_workaround_context": {
+    "message": "زمینه"
+  },
+  "screenshot_workaround_context_text": {
+    "message": "به دلیل برخی محدودیت‌های فنی، ممکن است هنگام گرفتن اسکرین‌شات این پیام خطا را دریافت کنید."
+  },
+  "screenshot_workaround_solution": {
+    "message": "راه‌حل جایگزین"
+  },
+  "screenshot_workaround_solution_text": {
+    "message": "در این حالت، برای شروع ضبط، روی هر جای صفحه راست‌کلیک کنید، گزینهٔ «مبات» را انتخاب کنید و سپس «📷 گرفتن اسکرین‌شات» را بزنید."
+  },
+  "screenshot_workaround_title": {
+    "message": "راه‌حل جایگزین برای اسکرین‌شات"
+  },
+  "see_less": {
+    "message": "کمتر ببینید"
+  },
+  "see_more": {
+    "message": "بیشتر ببینید"
+  },
+  "select": {
+    "message": "انتخاب کنید..."
+  },
+  "settings_batterie_level": {
+    "message": "سطح باتری در هدر دستگاه (%)"
+  },
+  "settings_camera": {
+    "message": "دوربین"
+  },
+  "settings_change_background": {
+    "message": "رنگ پس‌زمینه را تغییر دهید"
+  },
+  "settings_change_cursor": {
+    "message": "پیمایش لمسی و نمایش نشانگر موبایل"
+  },
+  "settings_countdown": {
+    "message": "شمارش معکوس (ثانیه)"
+  },
+  "settings_default_device": {
+    "message": "دستگاه پیش‌فرض در هر فعال‌سازی"
+  },
+  "settings_default_device_placeholder": {
+    "message": "انتخاب یک دستگاه"
+  },
+  "settings_device_default_url": {
+    "message": "تغییر URL نمایش داده شده در دستگاه"
+  },
+  "settings_device_forced_time": {
+    "message": "اجبار زمان نمایش داده شده در دستگاه"
+  },
+  "settings_device_forced_time_reset": {
+    "message": "بازگشت به زمان فعلی"
+  },
+  "settings_device_hide": {
+    "message": "نمایش قاب دستگاه"
+  },
+  "settings_fullscreen": {
+    "message": "سایت به صورت تمام صفحه در دستگاه"
+  },
+  "settings_h2_customization": {
+    "message": "سفارشی‌سازی"
+  },
+  "settings_h2_device": {
+    "message": "دستگاه"
+  },
+  "settings_h2_display": {
+    "message": "نمایش کلی"
+  },
+  "settings_h2_global": {
+    "message": "عمومی"
+  },
+  "settings_h2_multiwindow": {
+    "message": "حالت چند پنجره‌ای"
+  },
+  "settings_h2_pwa": {
+    "message": "PWA"
+  },
+  "settings_hide_header_footer": {
+    "message": "رابط کاربری مرورگر دستگاه را مخفی کنید (نوار آدرس و غیره)"
+  },
+  "settings_hide_keyboard": {
+    "message": "شبیه‌سازی ظاهر شدن صفحه‌کلید هنگام تایپ"
+  },
+  "settings_language_description": {
+    "message": "زبانی را برای رابط کاربری مبات انتخاب کنید. این تنظیم روی سایت شبیه‌سازی‌شده تأثیری ندارد."
+  },
+  "settings_language_note": {
+    "message": "زبان فارسی از چیدمان راست‌به‌چپ استفاده می‌کند."
+  },
+  "settings_language_title": {
+    "message": "زبان رابط کاربری"
+  },
+  "settings_microphone": {
+    "message": "میکروفون"
+  },
+  "settings_nav_appearance": {
+    "message": "ظاهر"
+  },
+  "settings_nav_device": {
+    "message": "دستگاه"
+  },
+  "settings_nav_language": {
+    "message": "زبان"
+  },
+  "settings_open_source_note": {
+    "message": "مبات متن‌باز است."
+  },
+  "settings_os_display": {
+    "message": "نمایش سیستم‌عامل"
+  },
+  "settings_os_display_full_desc": {
+    "message": "نوار وضعیت سیستم‌عامل و مرورگر (نوار آدرس) را نمایش می‌دهد."
+  },
+  "settings_os_display_no_browser_desc": {
+    "message": "مرورگر را مخفی می‌کند اما نوار وضعیت سیستم‌عامل را نگه می‌دارد."
+  },
+  "settings_os_display_no_os_desc": {
+    "message": "نوار وضعیت سیستم‌عامل و مرورگر را مخفی می‌کند."
+  },
+  "settings_presenter_mode": {
+    "message": "حالت ارائه (منوی سمت راست فقط در هنگام حرکت ماوس قابل مشاهده است)"
+  },
+  "settings_pwa_auto_detect": {
+    "message": "PWAها را به‌طور خودکار شناسایی و به‌عنوان برنامه موبایل نمایش دهید."
+  },
+  "settings_scrollbar_show": {
+    "message": "نمایش نوار پیمایش بومی در دستگاه"
+  },
+  "settings_shortcuts": {
+    "message": "میانبرهای صفحه‌کلید را تعریف کنید"
+  },
+  "settings_sync_events": {
+    "message": "همگام‌سازی رویدادها بین پنجره‌ها (کلیک، پیمایش، و غیره)"
+  },
+  "settings_theme": {
+    "message": "تم"
+  },
+  "settings_theme_auto": {
+    "message": "خودکار"
+  },
+  "settings_theme_dark": {
+    "message": "تیره"
+  },
+  "settings_theme_light": {
+    "message": "روشن"
+  },
+  "settings_title": {
+    "message": "تنظیمات"
+  },
+  "settings_transparent_background": {
+    "message": "پس‌زمینه شفاف"
+  },
+  "settings_transparent_background_info": {
+    "message": "این گزینه محاسبات بیشتری را در بر دارد و بنابراین ممکن است نمایش را بر اساس کامپیوتر شما کند کند (فقط با فرمت‌های WEBM و GIF سازگار است)"
+  },
+  "settings_video_quality": {
+    "message": "کیفیت ویدئو"
+  },
+  "settings_video_quality_high": {
+    "message": "عالی"
+  },
+  "settings_video_quality_low": {
+    "message": "متوسط"
+  },
+  "settings_video_quality_medium": {
+    "message": "خوب"
+  },
+  "simulator_footer_info": {
+    "message": "این فقط یک تصویر است. از صفحه‌کلید خود استفاده کنید."
+  },
+  "simulator_framing_blocked": {
+    "message": "$1 اجازه نمی‌دهد صفحاتش درون صفحه دیگری نمایش داده شوند: سایت نمی‌تواند روی Firefox شبیه‌سازی شود."
+  },
+  "simulator_header_info": {
+    "message": "این فقط یک تصویر است. برای تغییر URL از فیلد Chrome در بالا استفاده کنید."
+  },
+  "tablet": {
+    "message": "<i class='mdi'>&#xe920;</i> تبلت‌ها"
+  },
+  "try_it": {
+    "message": "اکنون امتحان کنید"
+  },
+  "update_4_14_5_description": {
+    "message": "بهبود قابل توجه در وضوح و کیفیت تصاویر صفحه."
+  },
+  "update_4_14_5_title": {
+    "message": "تصاویر واضح‌تر"
+  },
+  "update_4_15_0_description": {
+    "message": "فعال‌سازی اسکرول لمسی در گوشی‌های هوشمند و تبلت‌ها."
+  },
+  "update_4_15_0_title": {
+    "message": "اسکرول لمسی"
+  },
+  "update_4_15_5_description": {
+    "message": "گرفتن عکس از صفحه کامل در فایل‌های محلی و اصلاح واحدهای نمایش در iOS 26 (vh، dhv، lvh، svh)."
+  },
+  "update_4_15_5_title": {
+    "message": "اصلاحات"
+  },
+  "update_4_16_0_description": {
+    "message": "اکنون می‌توانید دستگاه‌های خود را با ابعاد خاص اضافه کنید."
+  },
+  "update_4_16_0_title": {
+    "message": "دستگاه‌های سفارشی"
+  },
+  "update_4_17_0_description": {
+    "message": "چندین دستگاه را به‌طور همزمان کنار هم مقایسه کنید. کلیک‌ها، اسکرول‌ها و کیبورد همگام‌سازی شده‌اند."
+  },
+  "update_4_17_0_title": {
+    "message": "مقایسه دستگاه‌ها"
+  },
+  "update_4_19_0_description": {
+    "message": "۳ مدل از Google Pixel 10، Motorola Razr 70 Ultra، Infinix Hot 70 و Samsung Galaxy A17."
+  },
+  "update_4_19_0_title": {
+    "message": "۶ دستگاه جدید اندروید"
+  },
+  "update_4_21_0_description": {
+    "message": "آیفون ۱۸ پرو، آیفون ۱۸ پرو مکس و آیفون تاشو Duo، در نسخه‌های تاشده و باز."
+  },
+  "update_4_21_0_title": {
+    "message": "۴ آیفون جدید"
+  },
+  "update_tag_feature": {
+    "message": "ویژگی"
+  },
+  "update_tag_fix": {
+    "message": "اصلاح"
+  },
+  "update_tag_improvement": {
+    "message": "بهبود"
+  },
+  "update_tag_new": {
+    "message": "جدید"
+  }
+}

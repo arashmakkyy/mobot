@@ -1,0 +1,32 @@
+{
+  "name": "mobot",
+  "version": "5.28.1",
+  "private": true,
+  "description": "Open-source Chrome extension for previewing and testing websites on phones, tablets, and desktop devices.",
+  "license": "MIT",
+  "author": "Mobot contributors",
+  "homepage": "https://github.com/arashmakkyy/mobot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arashmakkyy/mobot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arashmakkyy/mobot/issues"
+  },
+  "keywords": [
+    "browser-extension",
+    "chrome-extension",
+    "device-simulator",
+    "responsive-design",
+    "screenshot",
+    "screen-recording",
+    "persian",
+    "rtl"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  }
+}

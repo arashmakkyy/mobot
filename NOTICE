@@ -1,0 +1,21 @@
+Mobot
+=====
+
+Mobot is an independent rebrand and cleanup of a previously distributed
+browser-extension bundle. It is not affiliated with or endorsed by the
+publisher of the upstream bundle.
+
+The MIT license in LICENSE applies to the Mobot-specific changes and original
+code in this repository. The upstream portions remain subject to the terms
+under which they were originally made available. The upstream license file is
+not reproduced in this repository because it contains personal and contractual
+information that is not part of the Mobot release.
+
+No upstream license text is reproduced here. If you are a rights holder and
+have questions about this distribution, please open an issue at:
+
+  https://github.com/arashmakkyy/mobot/issues
+
+Third-party components that are distributed with Mobot are listed in
+THIRD-PARTY-LICENSES.md. The Vazirmatn font license text is also included at
+assets/fonts/OFL.txt.

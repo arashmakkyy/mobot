@@ -1,0 +1,33 @@
+# Dependencies and local tooling
+node_modules/
+.pnpm-store/
+coverage/
+test-results/
+playwright-report/
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Archives and upstream-only material
+*.rar
+*.zip
+*.7z
+4.21.2_0/
+mobile-simulator.rar
+OPENSOURCE-CHECKLIST.md
+LICENSE.upstream
