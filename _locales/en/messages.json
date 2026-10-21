@@ -266,35 +266,17 @@
   "screencast_microphone_permission_denied": {
     "message": "Microphone access permission denied."
   },
-  "screencast_modale_auto_stop_limit_reached": {
-    "message": "Video recordings are limited to 5 minutes."
-  },
   "screencast_modale_contact": {
     "message": "Report an issue on GitHub"
   },
-  "screencast_modale_copy": {
-    "message": "Copy link"
-  },
-  "screencast_modale_download_gif": {
-    "message": "Compatible everywhere, but lower quality (with transparency if option enabled)"
-  },
-  "screencast_modale_download_mp4": {
-    "message": "Better compatibility with PowerPoint, but no transparency"
-  },
   "screencast_modale_download_webm": {
-    "message": "Download in default WEBM format (with transparency if option enabled)"
-  },
-  "screencast_modale_gif_duration_limit_info": {
-    "message": "The maximum duration of a GIF is 60 seconds. Beyond that, the file would be too large."
+    "message": "Download the recording as a WebM file."
   },
   "screencast_modale_texte": {
-    "message": "You can download this video in different formats or get a share link."
+    "message": "Download your recording as a WebM file."
   },
   "screencast_modale_title": {
     "message": "Video capture"
-  },
-  "screencast_modale_upload": {
-    "message": "Upload (disabled)"
   },
   "screencast_quality_info_tooltip": {
     "message": "Video quality affects the bitrate, fps & resolution of the recording. The higher the quality, the larger the file."
@@ -525,7 +507,7 @@
     "message": "Transparent background"
   },
   "settings_transparent_background_info": {
-    "message": "This option involves more calculations and thus a potential slowdown of the display depending on your computer (only compatible with WEBM and GIF formats)"
+    "message": "This option requires more processing and may slow down the display (WebM only)."
   },
   "settings_video_quality": {
     "message": "Video quality"

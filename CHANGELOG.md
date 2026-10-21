@@ -26,6 +26,8 @@ number of the bundled simulator release it is based on.
 - Reduced the shipped locales to English and Persian.
 - Kept screenshots (PNG/WebP) and local WebM recording; removed cloud upload,
   share-link, GIF, and MP4 conversion paths.
+- The recording dialog now offers only the local WebM download. Removed the
+  legacy GIF/MP4/upload/share controls and the five-minute Pro limit.
 - Removed unused background modules and dead account, Pro, trial, and contact
   UI.
 - Replaced the popup and extension icons with Mobot artwork.

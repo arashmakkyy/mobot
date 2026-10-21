@@ -266,35 +266,17 @@
   "screencast_microphone_permission_denied": {
     "message": "دسترسی به میکروفون رد شد."
   },
-  "screencast_modale_auto_stop_limit_reached": {
-    "message": "ضبط ویدیو به ۵ دقیقه محدود شده است."
-  },
   "screencast_modale_contact": {
     "message": "ثبت issue در گیت‌هاب"
   },
-  "screencast_modale_copy": {
-    "message": "کپی لینک"
-  },
-  "screencast_modale_download_gif": {
-    "message": "سازگار با همه جا، اما کیفیت پایین‌تر (با شفافیت در صورت فعال بودن گزینه)"
-  },
-  "screencast_modale_download_mp4": {
-    "message": "سازگاری بهتر با PowerPoint، اما بدون شفافیت"
-  },
   "screencast_modale_download_webm": {
-    "message": "دانلود به فرمت پیش‌فرض WEBM (با شفافیت در صورت فعال بودن گزینه)"
-  },
-  "screencast_modale_gif_duration_limit_info": {
-    "message": "حداکثر مدت زمان یک GIF 60 ثانیه است. بیشتر از آن فایل بسیار حجیم خواهد بود."
+    "message": "دانلود ضبط به‌صورت فایل WebM."
   },
   "screencast_modale_texte": {
-    "message": "می‌توانید این ویدئو را در فرمت‌های مختلف دانلود کنید یا لینک اشتراک دریافت کنید."
+    "message": "ضبط خود را به‌صورت فایل WebM دانلود کنید."
   },
   "screencast_modale_title": {
     "message": "ضبط ویدئو"
-  },
-  "screencast_modale_upload": {
-    "message": "بارگذاری (غیرفعال)"
   },
   "screencast_quality_info_tooltip": {
     "message": "کیفیت ویدئو بر بیت‌ریت، fps و وضوح ضبط تأثیر می‌گذارد. هرچه کیفیت بالاتر باشد، فایل حجیم‌تر خواهد بود."
@@ -525,7 +507,7 @@
     "message": "پس‌زمینه شفاف"
   },
   "settings_transparent_background_info": {
-    "message": "این گزینه محاسبات بیشتری را در بر دارد و بنابراین ممکن است نمایش را بر اساس کامپیوتر شما کند کند (فقط با فرمت‌های WEBM و GIF سازگار است)"
+    "message": "این گزینه پردازش بیشتری لازم دارد و ممکن است نمایش را کند کند (فقط WebM)."
   },
   "settings_video_quality": {
     "message": "کیفیت ویدئو"

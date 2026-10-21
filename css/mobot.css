@@ -59,10 +59,6 @@ html[dir="rtl"] .terminal-object {
   direction: ltr;
 }
 
-.mobot-cloud-only {
-  display: none !important;
-}
-
 .menu-button.extension,
 .menu-button.send_message {
   display: none !important;
